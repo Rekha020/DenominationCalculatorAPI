@@ -1,0 +1,56 @@
+2022-10-18 09:57:04.492 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-18 09:57:04.612 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-18 09:57:04.646 +05:30 [INF] Hosting environment: Development
+2022-10-18 09:57:04.647 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-18 09:57:04.875 +05:30 [INF] Request finished in 300.74ms 200 text/html;charset=utf-8
+2022-10-18 09:57:05.472 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-18 09:57:05.716 +05:30 [INF] Request finished in 244.9385ms 200 application/json;charset=utf-8
+2022-10-18 09:57:25.167 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 26
+2022-10-18 09:57:25.186 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-18 09:57:25.243 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-18 09:57:59.180 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-18 09:57:59.191 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 33939.3189ms
+2022-10-18 09:57:59.193 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-18 09:57:59.194 +05:30 [INF] Request finished in 34028.129ms 200 text/plain; charset=utf-8
+2022-10-18 10:11:44.879 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-18 10:11:44.932 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-18 10:11:45.003 +05:30 [INF] Hosting environment: Development
+2022-10-18 10:11:45.004 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-18 10:11:45.170 +05:30 [INF] Request finished in 245.4239ms 200 text/html;charset=utf-8
+2022-10-18 10:11:45.943 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-18 10:11:46.194 +05:30 [INF] Request finished in 252.5615ms 200 application/json;charset=utf-8
+2022-10-18 10:12:19.605 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 27
+2022-10-18 10:12:19.627 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-18 10:12:19.678 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-18 10:12:22.647 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-18 10:12:22.665 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 2975.8516ms
+2022-10-18 10:12:22.668 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-18 10:12:22.668 +05:30 [INF] Request finished in 3064.8036ms 200 text/plain; charset=utf-8
+2022-10-18 10:14:14.216 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 27
+2022-10-18 10:14:14.222 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-18 10:14:14.223 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-18 10:14:14.236 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-18 10:14:14.245 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 21.4977ms
+2022-10-18 10:14:14.245 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-18 10:14:14.246 +05:30 [INF] Request finished in 31.4089ms 200 text/plain; charset=utf-8
+2022-10-18 10:14:18.383 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 26
+2022-10-18 10:14:18.387 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-18 10:14:18.388 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-18 10:14:18.397 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-18 10:14:18.399 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 10.0728ms
+2022-10-18 10:14:18.403 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-18 10:14:18.403 +05:30 [INF] Request finished in 20.6721ms 200 text/plain; charset=utf-8
+2022-10-18 10:14:22.481 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 25
+2022-10-18 10:14:22.483 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-18 10:14:22.484 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-18 10:14:22.488 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-18 10:14:22.490 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 6.4884ms
+2022-10-18 10:14:22.491 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-18 10:14:22.491 +05:30 [INF] Request finished in 10.3105ms 200 text/plain; charset=utf-8
+2022-10-18 10:14:30.425 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 24
+2022-10-18 10:14:30.426 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-18 10:14:30.427 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-18 10:14:30.434 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-18 10:14:30.437 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 8.9791ms
+2022-10-18 10:14:30.438 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-18 10:14:30.442 +05:30 [INF] Request finished in 17.1644ms 200 text/plain; charset=utf-8

@@ -1,0 +1,444 @@
+2022-10-17 20:09:03.520 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 20:09:03.838 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 20:09:04.021 +05:30 [INF] Hosting environment: Development
+2022-10-17 20:09:04.022 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 20:09:05.045 +05:30 [INF] Request finished in 1302.7792ms 200 text/html;charset=utf-8
+2022-10-17 20:09:06.468 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 20:09:07.309 +05:30 [INF] Request finished in 843.3269ms 200 application/json;charset=utf-8
+2022-10-17 20:09:16.484 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 29
+2022-10-17 20:09:16.529 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 20:09:16.688 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 20:09:21.628 +05:30 [FTL] Exception occured
+2022-10-17 20:09:21.646 +05:30 [INF] Executing HttpStatusCodeResult, setting HTTP status code 204
+2022-10-17 20:09:21.665 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 4961.725ms
+2022-10-17 20:09:21.667 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 20:09:21.669 +05:30 [INF] Request finished in 5186.1077ms 204 
+2022-10-17 20:11:45.958 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 20:11:46.823 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 20:11:47.184 +05:30 [INF] Hosting environment: Development
+2022-10-17 20:11:47.185 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 20:11:48.564 +05:30 [INF] Request finished in 1756.7041ms 200 text/html;charset=utf-8
+2022-10-17 20:11:54.480 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 20:11:55.014 +05:30 [INF] Request finished in 536.0521ms 200 application/json;charset=utf-8
+2022-10-17 20:12:11.733 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 30
+2022-10-17 20:12:11.810 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 20:12:12.070 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 20:12:24.025 +05:30 [FTL] Exception occured
+2022-10-17 20:12:32.779 +05:30 [FTL] Exception occured
+2022-10-17 20:12:51.243 +05:30 [INF] Executing HttpStatusCodeResult, setting HTTP status code 204
+2022-10-17 20:12:51.265 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 39174.4996ms
+2022-10-17 20:12:51.267 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 20:12:51.270 +05:30 [INF] Request finished in 39538.6278ms 204 
+2022-10-17 20:32:54.215 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 20:32:54.366 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 20:32:54.551 +05:30 [INF] Hosting environment: Development
+2022-10-17 20:32:54.553 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 20:32:55.308 +05:30 [INF] Request finished in 999.4609ms 200 text/html;charset=utf-8
+2022-10-17 20:32:56.420 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 20:32:57.099 +05:30 [INF] Request finished in 687.2918ms 200 application/json;charset=utf-8
+2022-10-17 20:33:15.573 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 29
+2022-10-17 20:33:15.639 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 20:33:15.824 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 20:33:20.267 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-17 20:33:20.339 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 4455.06ms
+2022-10-17 20:33:20.345 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 20:33:20.346 +05:30 [INF] Request finished in 4775.884ms 200 text/plain; charset=utf-8
+2022-10-17 20:34:57.059 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 20:34:57.233 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 20:34:57.414 +05:30 [INF] Hosting environment: Development
+2022-10-17 20:34:57.420 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 20:34:58.223 +05:30 [INF] Request finished in 1031.7225ms 200 text/html;charset=utf-8
+2022-10-17 20:34:59.224 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 20:35:00.004 +05:30 [INF] Request finished in 781.7849ms 200 application/json;charset=utf-8
+2022-10-17 20:35:13.040 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 30
+2022-10-17 20:35:13.109 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 20:35:13.346 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 20:35:29.698 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-17 20:35:29.737 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 16361.6879ms
+2022-10-17 20:35:29.744 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 20:35:29.744 +05:30 [INF] Request finished in 16706.1534ms 200 text/plain; charset=utf-8
+2022-10-17 20:36:22.290 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 20:36:22.479 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 20:36:22.678 +05:30 [INF] Hosting environment: Development
+2022-10-17 20:36:22.680 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 20:36:23.289 +05:30 [INF] Request finished in 828.7134ms 200 text/html;charset=utf-8
+2022-10-17 20:36:24.341 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 20:36:24.963 +05:30 [INF] Request finished in 624.366ms 200 application/json;charset=utf-8
+2022-10-17 20:36:39.827 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 32
+2022-10-17 20:36:39.883 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 20:36:40.097 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 20:40:34.509 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 20:40:34.737 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 20:40:34.929 +05:30 [INF] Hosting environment: Development
+2022-10-17 20:40:34.933 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 20:40:35.668 +05:30 [INF] Request finished in 953.5304ms 200 text/html;charset=utf-8
+2022-10-17 20:40:37.319 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 20:40:37.868 +05:30 [INF] Request finished in 551.5936ms 200 application/json;charset=utf-8
+2022-10-17 20:40:54.924 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 28
+2022-10-17 20:40:55.013 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 20:40:55.247 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 20:40:55.409 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 139.8707ms
+2022-10-17 20:40:55.418 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 20:40:55.446 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: The field of type System.Double must be a string, array or ICollection type.
+   at System.ComponentModel.DataAnnotations.MaxLengthAttribute.IsValid(Object value)
+   at System.ComponentModel.DataAnnotations.ValidationAttribute.IsValid(Object value, ValidationContext validationContext)
+   at System.ComponentModel.DataAnnotations.ValidationAttribute.GetValidationResult(Object value, ValidationContext validationContext)
+   at Microsoft.AspNetCore.Mvc.DataAnnotations.DataAnnotationsModelValidator.Validate(ModelValidationContext validationContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.ValidateNode()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitSimpleType()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitChildren(IValidationStrategy strategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitComplexType(IValidationStrategy defaultStrategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Validate(ModelMetadata metadata, String key, Object model, Boolean alwaysValidateAtTopLevel)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ObjectModelValidator.Validate(ActionContext actionContext, ValidationStateDictionary validationState, String prefix, Object model, ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.EnforceBindRequiredAndValidate(ObjectModelValidator baseObjectValidator, ActionContext actionContext, ParameterDescriptor parameter, ModelMetadata metadata, ModelBindingContext modelBindingContext, ModelBindingResult modelBindingResult)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-10-17 20:40:55.797 +05:30 [INF] Request finished in 876.6553ms 500 text/plain
+2022-10-17 20:41:05.187 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 28
+2022-10-17 20:41:05.199 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 20:41:05.202 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 20:41:05.219 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 16.7114ms
+2022-10-17 20:41:05.220 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 20:41:05.225 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: The field of type System.Double must be a string, array or ICollection type.
+   at System.ComponentModel.DataAnnotations.MaxLengthAttribute.IsValid(Object value)
+   at System.ComponentModel.DataAnnotations.ValidationAttribute.IsValid(Object value, ValidationContext validationContext)
+   at System.ComponentModel.DataAnnotations.ValidationAttribute.GetValidationResult(Object value, ValidationContext validationContext)
+   at Microsoft.AspNetCore.Mvc.DataAnnotations.DataAnnotationsModelValidator.Validate(ModelValidationContext validationContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.ValidateNode()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitSimpleType()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitChildren(IValidationStrategy strategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitComplexType(IValidationStrategy defaultStrategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Validate(ModelMetadata metadata, String key, Object model, Boolean alwaysValidateAtTopLevel)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ObjectModelValidator.Validate(ActionContext actionContext, ValidationStateDictionary validationState, String prefix, Object model, ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.EnforceBindRequiredAndValidate(ObjectModelValidator baseObjectValidator, ActionContext actionContext, ParameterDescriptor parameter, ModelMetadata metadata, ModelBindingContext modelBindingContext, ModelBindingResult modelBindingResult)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-10-17 20:41:05.263 +05:30 [INF] Request finished in 77.6788ms 500 text/plain
+2022-10-17 20:42:29.039 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 20:42:29.197 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 20:42:29.457 +05:30 [INF] Hosting environment: Development
+2022-10-17 20:42:29.459 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 20:42:30.039 +05:30 [INF] Request finished in 860.5106ms 200 text/html;charset=utf-8
+2022-10-17 20:42:31.035 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 20:42:31.653 +05:30 [INF] Request finished in 620.5102ms 200 application/json;charset=utf-8
+2022-10-17 21:12:29.102 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 29
+2022-10-17 21:12:29.277 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:12:29.520 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:13:36.699 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 21:13:36.929 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 21:13:37.117 +05:30 [INF] Hosting environment: Development
+2022-10-17 21:13:37.118 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 21:13:37.738 +05:30 [INF] Request finished in 873.0731ms 200 text/html;charset=utf-8
+2022-10-17 21:13:38.762 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 21:13:39.380 +05:30 [INF] Request finished in 620.3354ms 200 application/json;charset=utf-8
+2022-10-17 21:13:50.857 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 29
+2022-10-17 21:13:50.920 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:13:51.143 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:15:17.761 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 21:15:18.419 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 21:15:18.505 +05:30 [INF] Hosting environment: Development
+2022-10-17 21:15:18.509 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 21:15:19.214 +05:30 [INF] Request finished in 871.5239ms 200 text/html;charset=utf-8
+2022-10-17 21:15:25.743 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 21:15:26.374 +05:30 [INF] Request finished in 633.0486ms 200 application/json;charset=utf-8
+2022-10-17 21:15:47.562 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 29
+2022-10-17 21:15:47.621 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:15:47.860 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:17:49.131 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 21:17:49.432 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 21:17:49.520 +05:30 [INF] Hosting environment: Development
+2022-10-17 21:17:49.521 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 21:17:50.156 +05:30 [INF] Request finished in 859.4563ms 200 text/html;charset=utf-8
+2022-10-17 21:17:51.482 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 21:17:52.222 +05:30 [INF] Request finished in 741.7011ms 200 application/json;charset=utf-8
+2022-10-17 21:18:04.768 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 26
+2022-10-17 21:18:04.830 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:18:04.987 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:18:05.232 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 213.9141ms
+2022-10-17 21:18:05.244 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:18:05.265 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: The field of type System.Int32 must be a string, array or ICollection type.
+   at System.ComponentModel.DataAnnotations.MaxLengthAttribute.IsValid(Object value)
+   at System.ComponentModel.DataAnnotations.ValidationAttribute.IsValid(Object value, ValidationContext validationContext)
+   at System.ComponentModel.DataAnnotations.ValidationAttribute.GetValidationResult(Object value, ValidationContext validationContext)
+   at Microsoft.AspNetCore.Mvc.DataAnnotations.DataAnnotationsModelValidator.Validate(ModelValidationContext validationContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.ValidateNode()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitSimpleType()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitChildren(IValidationStrategy strategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitComplexType(IValidationStrategy defaultStrategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Validate(ModelMetadata metadata, String key, Object model, Boolean alwaysValidateAtTopLevel)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ObjectModelValidator.Validate(ActionContext actionContext, ValidationStateDictionary validationState, String prefix, Object model, ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.EnforceBindRequiredAndValidate(ObjectModelValidator baseObjectValidator, ActionContext actionContext, ParameterDescriptor parameter, ModelMetadata metadata, ModelBindingContext modelBindingContext, ModelBindingResult modelBindingResult)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-10-17 21:18:05.647 +05:30 [INF] Request finished in 881.306ms 500 text/plain
+2022-10-17 21:18:13.765 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 26
+2022-10-17 21:18:13.775 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:18:13.778 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:18:13.792 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 13.4468ms
+2022-10-17 21:18:13.794 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:18:13.797 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: The field of type System.Int32 must be a string, array or ICollection type.
+   at System.ComponentModel.DataAnnotations.MaxLengthAttribute.IsValid(Object value)
+   at System.ComponentModel.DataAnnotations.ValidationAttribute.IsValid(Object value, ValidationContext validationContext)
+   at System.ComponentModel.DataAnnotations.ValidationAttribute.GetValidationResult(Object value, ValidationContext validationContext)
+   at Microsoft.AspNetCore.Mvc.DataAnnotations.DataAnnotationsModelValidator.Validate(ModelValidationContext validationContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.ValidateNode()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitSimpleType()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitChildren(IValidationStrategy strategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitComplexType(IValidationStrategy defaultStrategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Validate(ModelMetadata metadata, String key, Object model, Boolean alwaysValidateAtTopLevel)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ObjectModelValidator.Validate(ActionContext actionContext, ValidationStateDictionary validationState, String prefix, Object model, ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.EnforceBindRequiredAndValidate(ObjectModelValidator baseObjectValidator, ActionContext actionContext, ParameterDescriptor parameter, ModelMetadata metadata, ModelBindingContext modelBindingContext, ModelBindingResult modelBindingResult)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-10-17 21:18:13.807 +05:30 [INF] Request finished in 45.0334ms 500 text/plain
+2022-10-17 21:18:58.495 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 21:18:58.678 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 21:18:58.927 +05:30 [INF] Hosting environment: Development
+2022-10-17 21:18:58.929 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 21:18:59.644 +05:30 [INF] Request finished in 989.1179ms 200 text/html;charset=utf-8
+2022-10-17 21:19:01.085 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 21:19:01.567 +05:30 [INF] Request finished in 485.6995ms 200 application/json;charset=utf-8
+2022-10-17 21:19:37.486 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 26
+2022-10-17 21:19:37.599 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:19:37.789 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:19:38.005 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 189.5462ms
+2022-10-17 21:19:38.014 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:19:38.031 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: The field of type System.Int32 must be a string, array or ICollection type.
+   at System.ComponentModel.DataAnnotations.MaxLengthAttribute.IsValid(Object value)
+   at System.ComponentModel.DataAnnotations.ValidationAttribute.IsValid(Object value, ValidationContext validationContext)
+   at System.ComponentModel.DataAnnotations.ValidationAttribute.GetValidationResult(Object value, ValidationContext validationContext)
+   at Microsoft.AspNetCore.Mvc.DataAnnotations.DataAnnotationsModelValidator.Validate(ModelValidationContext validationContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.ValidateNode()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitSimpleType()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitChildren(IValidationStrategy strategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitComplexType(IValidationStrategy defaultStrategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Validate(ModelMetadata metadata, String key, Object model, Boolean alwaysValidateAtTopLevel)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ObjectModelValidator.Validate(ActionContext actionContext, ValidationStateDictionary validationState, String prefix, Object model, ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.EnforceBindRequiredAndValidate(ObjectModelValidator baseObjectValidator, ActionContext actionContext, ParameterDescriptor parameter, ModelMetadata metadata, ModelBindingContext modelBindingContext, ModelBindingResult modelBindingResult)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-10-17 21:19:38.329 +05:30 [INF] Request finished in 845.3255ms 500 text/plain
+2022-10-17 21:20:00.411 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 26
+2022-10-17 21:20:00.422 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:20:00.426 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:20:03.214 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 2787.4131ms
+2022-10-17 21:20:03.232 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:20:03.250 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: The field of type System.Int32 must be a string, array or ICollection type.
+   at System.ComponentModel.DataAnnotations.MaxLengthAttribute.IsValid(Object value)
+   at System.ComponentModel.DataAnnotations.ValidationAttribute.IsValid(Object value, ValidationContext validationContext)
+   at System.ComponentModel.DataAnnotations.ValidationAttribute.GetValidationResult(Object value, ValidationContext validationContext)
+   at Microsoft.AspNetCore.Mvc.DataAnnotations.DataAnnotationsModelValidator.Validate(ModelValidationContext validationContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.ValidateNode()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitSimpleType()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitChildren(IValidationStrategy strategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitComplexType(IValidationStrategy defaultStrategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Validate(ModelMetadata metadata, String key, Object model, Boolean alwaysValidateAtTopLevel)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ObjectModelValidator.Validate(ActionContext actionContext, ValidationStateDictionary validationState, String prefix, Object model, ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.EnforceBindRequiredAndValidate(ObjectModelValidator baseObjectValidator, ActionContext actionContext, ParameterDescriptor parameter, ModelMetadata metadata, ModelBindingContext modelBindingContext, ModelBindingResult modelBindingResult)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-10-17 21:20:03.262 +05:30 [INF] Request finished in 2851.6112ms 500 text/plain
+2022-10-17 21:21:33.358 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 21:21:33.854 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 21:21:34.035 +05:30 [INF] Hosting environment: Development
+2022-10-17 21:21:34.036 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 21:21:34.758 +05:30 [INF] Request finished in 920.4194ms 200 text/html;charset=utf-8
+2022-10-17 21:21:36.262 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 21:21:37.028 +05:30 [INF] Request finished in 768.5518ms 200 application/json;charset=utf-8
+2022-10-17 21:21:48.615 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 26
+2022-10-17 21:21:48.711 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:21:48.868 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:21:52.624 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 3715.0406ms
+2022-10-17 21:21:52.809 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:21:52.865 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidCastException: The field of type System.Double must be a string, array or ICollection type.
+   at System.ComponentModel.DataAnnotations.MaxLengthAttribute.IsValid(Object value)
+   at System.ComponentModel.DataAnnotations.ValidationAttribute.IsValid(Object value, ValidationContext validationContext)
+   at System.ComponentModel.DataAnnotations.ValidationAttribute.GetValidationResult(Object value, ValidationContext validationContext)
+   at Microsoft.AspNetCore.Mvc.DataAnnotations.DataAnnotationsModelValidator.Validate(ModelValidationContext validationContext)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.ValidateNode()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitSimpleType()
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitChildren(IValidationStrategy strategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.VisitComplexType(IValidationStrategy defaultStrategy)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Visit(ModelMetadata metadata, String key, Object model)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.Validation.ValidationVisitor.Validate(ModelMetadata metadata, String key, Object model, Boolean alwaysValidateAtTopLevel)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ObjectModelValidator.Validate(ActionContext actionContext, ValidationStateDictionary validationState, String prefix, Object model, ModelMetadata metadata)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.EnforceBindRequiredAndValidate(ObjectModelValidator baseObjectValidator, ActionContext actionContext, ParameterDescriptor parameter, ModelMetadata metadata, ModelBindingContext modelBindingContext, ModelBindingResult modelBindingResult)
+   at Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder.BindModelAsync(ActionContext actionContext, IModelBinder modelBinder, IValueProvider valueProvider, ParameterDescriptor parameter, ModelMetadata metadata, Object value)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerBinderDelegateProvider.<>c__DisplayClass0_0.<<CreateBinderDelegate>g__Bind|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-10-17 21:21:53.196 +05:30 [INF] Request finished in 4583.3865ms 500 text/plain
+2022-10-17 21:22:42.641 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 21:22:42.864 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 21:22:43.039 +05:30 [INF] Hosting environment: Development
+2022-10-17 21:22:43.040 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 21:22:43.669 +05:30 [INF] Request finished in 821.4641ms 200 text/html;charset=utf-8
+2022-10-17 21:22:44.593 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 21:22:45.203 +05:30 [INF] Request finished in 619.2286ms 200 application/json;charset=utf-8
+2022-10-17 21:22:55.793 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 26
+2022-10-17 21:22:55.869 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:22:56.086 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:27:20.536 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 21:27:20.704 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 21:27:20.869 +05:30 [INF] Hosting environment: Development
+2022-10-17 21:27:20.871 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 21:27:21.401 +05:30 [INF] Request finished in 746.5052ms 200 text/html;charset=utf-8
+2022-10-17 21:27:22.283 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 21:27:22.881 +05:30 [INF] Request finished in 600.7154ms 200 application/json;charset=utf-8
+2022-10-17 21:27:43.531 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 29
+2022-10-17 21:27:43.596 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:27:43.796 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:30:07.875 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 21:30:08.153 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 21:30:08.255 +05:30 [INF] Hosting environment: Development
+2022-10-17 21:30:08.257 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 21:30:08.939 +05:30 [INF] Request finished in 885.0855ms 200 text/html;charset=utf-8
+2022-10-17 21:30:09.893 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 21:30:10.543 +05:30 [INF] Request finished in 653.5199ms 200 application/json;charset=utf-8
+2022-10-17 21:30:29.195 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 29
+2022-10-17 21:30:29.267 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:30:29.429 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:33:40.322 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-17 21:33:40.514 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/index.html  
+2022-10-17 21:33:40.643 +05:30 [INF] Hosting environment: Development
+2022-10-17 21:33:40.645 +05:30 [INF] Content root path: C:\Learning\DenominationCalculatorAPI\DenominationCalculatorAPI
+2022-10-17 21:33:41.243 +05:30 [INF] Request finished in 778.9199ms 200 text/html;charset=utf-8
+2022-10-17 21:33:42.206 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:21546/swagger/v1/swagger.json  
+2022-10-17 21:33:42.946 +05:30 [INF] Request finished in 741.5288ms 200 application/json;charset=utf-8
+2022-10-17 21:33:56.525 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 29
+2022-10-17 21:33:56.578 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:33:56.766 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:34:09.111 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-17 21:34:09.155 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 12357.5466ms
+2022-10-17 21:34:09.160 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:34:09.161 +05:30 [INF] Request finished in 12637.947ms 200 text/plain; charset=utf-8
+2022-10-17 21:34:26.858 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 26
+2022-10-17 21:34:26.870 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:34:26.876 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:34:38.110 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-17 21:34:38.118 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 11241.4797ms
+2022-10-17 21:34:38.120 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:34:38.123 +05:30 [INF] Request finished in 11267.0715ms 200 text/plain; charset=utf-8
+2022-10-17 21:34:53.861 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 26
+2022-10-17 21:34:53.865 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:34:53.867 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:34:53.881 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-17 21:34:53.885 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 17.9695ms
+2022-10-17 21:34:53.886 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:34:53.887 +05:30 [INF] Request finished in 26.9792ms 200 text/plain; charset=utf-8
+2022-10-17 21:35:01.093 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 28
+2022-10-17 21:35:01.096 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:35:01.099 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:35:01.111 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-17 21:35:01.116 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 16.1639ms
+2022-10-17 21:35:01.117 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:35:01.121 +05:30 [INF] Request finished in 28.8992ms 200 text/plain; charset=utf-8
+2022-10-17 21:35:11.062 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 29
+2022-10-17 21:35:11.064 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:35:11.066 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:35:11.080 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-17 21:35:11.090 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 23.0985ms
+2022-10-17 21:35:11.091 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:35:11.092 +05:30 [INF] Request finished in 30.8512ms 200 text/plain; charset=utf-8
+2022-10-17 21:35:24.406 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 28
+2022-10-17 21:35:24.408 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:35:24.412 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:35:27.680 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-17 21:35:27.688 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 3275.4211ms
+2022-10-17 21:35:27.688 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:35:27.690 +05:30 [INF] Request finished in 3284.0536ms 200 text/plain; charset=utf-8
+2022-10-17 21:35:52.586 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 28
+2022-10-17 21:35:52.604 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:35:52.610 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:35:52.616 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-17 21:35:52.618 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 7.7794ms
+2022-10-17 21:35:52.620 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:35:52.630 +05:30 [INF] Request finished in 45.9498ms 200 text/plain; charset=utf-8
+2022-10-17 21:35:59.236 +05:30 [INF] Request starting HTTP/1.1 POST http://localhost:21546/api/DenominationCalculator/CalculateDenominations application/json 31
+2022-10-17 21:35:59.238 +05:30 [INF] Executing endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:35:59.240 +05:30 [INF] Route matched with {action = "CalculateDenominations", controller = "DenominationCalculator"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult CalculateDenominations(DenominationCalculatorAPI.Model.InputCurrency) on controller DenominationCalculatorAPI.Controllers.DenominationCalculatorController (DenominationCalculatorAPI).
+2022-10-17 21:35:59.250 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2022-10-17 21:35:59.282 +05:30 [INF] Executed action DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI) in 19.2796ms
+2022-10-17 21:35:59.285 +05:30 [INF] Executed endpoint 'DenominationCalculatorAPI.Controllers.DenominationCalculatorController.CalculateDenominations (DenominationCalculatorAPI)'
+2022-10-17 21:35:59.287 +05:30 [INF] Request finished in 51.5191ms 200 text/plain; charset=utf-8
